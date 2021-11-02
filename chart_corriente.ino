@@ -25,8 +25,8 @@ Adafruit_BME280 bme; // I2C
 //Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // software SPI
 
 // Replace with your network credentials
-const char* ssid = "DIANA";
-const char* password = "71056447";
+const char* ssid = "";
+const char* password = "";
 float c=0;
 
 // Create AsyncWebServer object on port 80
