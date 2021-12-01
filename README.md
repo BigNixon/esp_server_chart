@@ -1,2 +1,2 @@
 # esp_server_chart
-Se implementa una pagina web dentro del esp8266 para graficar en tiempo real la corriente, el esp es un servidor
+A webpage where the esp8266 works like a server to plot signals on realtime.
